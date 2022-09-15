@@ -1,0 +1,27 @@
+{
+  "name": "CSE341-EP",
+  "version": "1.0.0",
+  "description": "BYUI Fall 2022 - CSE341 - Eduardo Prieto personal usage repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduP217/CSE341-EP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduP217/CSE341-EP/issues"
+  },
+  "homepage": "https://github.com/EduP217/CSE341-EP#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
