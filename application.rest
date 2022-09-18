@@ -1,0 +1,11 @@
+###
+GET http://localhost:3000/  HTTP/1.1
+
+###
+GET http://localhost:3000/?name=Eduardo  HTTP/1.1
+
+###
+GET http://localhost:3000/contacts  HTTP/1.1
+
+###
+GET http://localhost:3000/contacts/632686968132715649ce5edc  HTTP/1.1

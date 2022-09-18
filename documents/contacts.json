@@ -1,9 +1,23 @@
 [
     {
-        "firstName": "",
-        "lastName": "",
-        "email": "",
-        "favoriteColor": "",
-        "birthday": ""
+        "firstName": "Anita",
+        "lastName": "Kalu",
+        "email": "kal21006@byui.edu",
+        "favoriteColor": "red",
+        "birthday": "15/01/1997"
+    },
+    {
+        "firstName": "Elizabeth",
+        "lastName": "Orchard",
+        "email": "orc19001@byui.edu",
+        "favoriteColor": "black",
+        "birthday": "01/07/1995"
+    },
+    {
+        "firstName": "BriAnna",
+        "lastName": "Marsh",
+        "email": "mar18016@byui.edu",
+        "favoriteColor": "green",
+        "birthday": "25/04/2000"
     }
 ]
