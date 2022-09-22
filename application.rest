@@ -9,3 +9,30 @@ GET https://cse341-ep-render.onrender.com/contacts  HTTP/1.1
 
 ###
 GET https://cse341-ep-render.onrender.com/contacts/632686968132715649ce5ede  HTTP/1.1
+
+###
+POST https://cse341-ep-render.onrender.com/contacts  HTTP/1.1
+Content-Type: application/json;
+
+{
+    "firstName": "Eduardo",
+    "lastName": "Prieto",
+    "email": "pri21002@byui.edu",
+    "favoriteColor": "blue|green",
+    "birthday": "19/03/1994"
+}
+
+###
+PUT https://cse341-ep-render.onrender.com/contacts/632b8d80ad0eb29ad3427311  HTTP/1.1
+Content-Type: application/json;
+
+{
+    "firstName": "Eduardo E.",
+    "lastName": "Prieto",
+    "email": "pri21002@byui.edu",
+    "favoriteColor": "blue|green|yellow",
+    "birthday": "19/03/1994"
+}
+
+###
+DELETE https://cse341-ep-render.onrender.com/contacts/632b8d80ad0eb29ad3427311  HTTP/1.1
