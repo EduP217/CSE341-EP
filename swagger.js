@@ -5,8 +5,8 @@ const doc = {
     title: 'CSE 341 | Web Services',
     description: 'CSE 341 Personal assignments',
   },
-  host: 'localhost:3000',
-  schemes: ['http'],
+  host: 'cse341-ep-render.onrender.com',
+  schemes: ['https'],
 };
 
 const outputFile = './swagger.json';
